@@ -12,7 +12,7 @@ This is a full end-to-end e-commerce website developed using **PHP**, **SQL**, *
 ## Setup Instructions
 
 ### 1. Clone the Repository
-git clone https://github.com/yourusername/ecommerce-website.git
+git clone (https://github.com/Rushi-Gokani/E-commerce-Website-.git)
 ### 2. Import SQL Databas
 ### 3. Update Database Connection
 Navigate to the include.php file.
